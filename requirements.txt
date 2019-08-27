@@ -1,1 +1,2 @@
 Django==2.2.4
+asgiref==3.2.1
